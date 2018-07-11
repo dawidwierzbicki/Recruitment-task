@@ -1,2 +1,2 @@
 # Recruitment-task
-This is recruitment task.
+This project was made for recruitment process.
